@@ -39,7 +39,7 @@ int gioca_partita() {
     printf("Partita conclusa, punteggio totalizzato da %s: %d\n", nome, punteggio);
 
     return 0;
-}
+}  
 
 int main() {
     char scelta;
